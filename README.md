@@ -2,6 +2,7 @@
 <h3 align="center">SLIATE IT Student | Flutter & Web Developer</h3>
 ---
 <br><h4 align="center">A passionate Software Engineer from SLIATE</h4>
+---
 
 - 🌱 I’m currently learning **Laravel**
 
