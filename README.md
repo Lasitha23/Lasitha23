@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Java**
+- 🧑‍🎓 I’m an Undergraduate at SLIATE
 
 - 📫 How to reach me **lasithavilochana14@gmail.com**
 
