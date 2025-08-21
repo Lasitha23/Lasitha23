@@ -1,6 +1,6 @@
 <p align="center" ><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
 <h1 align="center">Hi 👋, I'm Lasitha vilochana</h1>
-<h3 align="center">SLIATE IT Student | Flutter & Web Developer </h3>
+<h3 align="center">SLIATE IT Student | Web Developer </h3>
 <h4 align="center">A passionate Software Engineer from SLIATE</h4>
 
 <table align="center">
